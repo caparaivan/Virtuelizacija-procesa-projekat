@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Virtuelizacija\\SolarServer.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "SolarClient\\SolarClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

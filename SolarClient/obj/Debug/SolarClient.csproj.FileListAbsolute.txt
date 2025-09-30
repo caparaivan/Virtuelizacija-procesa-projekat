@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\bin\Debug\SolarClient.exe.config
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\bin\Debug\SolarClient.exe
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\bin\Debug\SolarClient.pdb
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\bin\Debug\Common.dll
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\bin\Debug\Common.pdb
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\obj\Debug\SolarClient.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\obj\Debug\SolarClient.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\obj\Debug\SolarCli.8034D276.Up2Date
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\obj\Debug\SolarClient.exe
+C:\Users\Korisnik\Desktop\Virtuelizacija\SolarClient\obj\Debug\SolarClient.pdb

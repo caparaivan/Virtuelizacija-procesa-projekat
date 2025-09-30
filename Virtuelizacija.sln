@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarServer", "Virtuelizacija\SolarServer.csproj", "{F119C592-86A2-4454-B8D8-55CC4DEAA261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarClient", "SolarClient\SolarClient.csproj", "{FC19B202-BFD5-4568-BCC0-BA717F2A55CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{C6934B0E-53B0-4954-8326-0FD43F5D620B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F119C592-86A2-4454-B8D8-55CC4DEAA261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F119C592-86A2-4454-B8D8-55CC4DEAA261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F119C592-86A2-4454-B8D8-55CC4DEAA261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F119C592-86A2-4454-B8D8-55CC4DEAA261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC19B202-BFD5-4568-BCC0-BA717F2A55CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC19B202-BFD5-4568-BCC0-BA717F2A55CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC19B202-BFD5-4568-BCC0-BA717F2A55CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC19B202-BFD5-4568-BCC0-BA717F2A55CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6934B0E-53B0-4954-8326-0FD43F5D620B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6934B0E-53B0-4954-8326-0FD43F5D620B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6934B0E-53B0-4954-8326-0FD43F5D620B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6934B0E-53B0-4954-8326-0FD43F5D620B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
